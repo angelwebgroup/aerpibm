@@ -27,7 +27,7 @@
     <!-- Header -->
     <header class="bg-white shadow-md fixed w-full z-50">
         <div class="container mx-auto px-4 py-3 flex justify-between items-center">
-            <div class="flex items-center">
+            <a href="index.php" class="flex items-center">
                 <div class="bg-primary w-12 h-12 rounded-full flex items-center justify-center">
                     <i class="fas fa-graduation-cap text-white text-2xl"></i>
                 </div>
@@ -35,7 +35,7 @@
                     <h1 class="text-xl font-bold text-primary">AERP Institute</h1>
                     <p class="text-xs text-gray-600">Business Management</p>
                 </div>
-            </div>
+            </a>
             
             <nav class="hidden md:flex space-x-8">
                 <a href="index.php#home" class="text-primary font-medium hover:text-secondary transition">Home</a>
